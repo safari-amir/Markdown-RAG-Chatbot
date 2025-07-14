@@ -1,5 +1,6 @@
 
 # 📚 AI-Powered Document Chatbot
+<img width="1863" height="734" alt="image" src="https://github.com/user-attachments/assets/23fa8107-169c-4dc5-8bc8-25cc44be6a97" />
 
 ## Overview
 
